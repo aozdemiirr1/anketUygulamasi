@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![127 0 0 1_8000_anket](https://github.com/aozdemiirr1/anketUygulamasi/assets/121563534/fdf69a2d-697f-4806-8fee-8c80e6d4dce6)
 
 ## About Laravel
 
